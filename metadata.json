@@ -1,0 +1,6 @@
+{
+  "name": "Velocity Vault",
+  "description": "Comprehensive financial toolkit featuring live TradingView stock charts, real-time risk engine, SWP pension planner, ETF fee optimizer, stock average calculator, and brokerage tax engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
